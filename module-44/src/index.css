@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.fira-sans-font {
+    font-family: "Fira Sans", sans-serif;
+}
+
+.lexenda-font {
+    font-family: "Lexend", sans-serif;
+}
